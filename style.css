@@ -32,7 +32,7 @@ body{
     color: #fff;
 }
 .scrol-btn {
-    bottom: 20px;
+    bottom: 15px;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
